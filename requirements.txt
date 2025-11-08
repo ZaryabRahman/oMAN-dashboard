@@ -1,20 +1,13 @@
-# Streamlit
-streamlit==1.26.0
-
-# OpenCV (headless version for cloud deployment)
-opencv-python-headless==4.8.1.78
-
-# PyTorch (CPU/GPU compatible, pick the latest 2.x for your model)
-torch==2.3.0
-torchvision==0.17.1
-
-# Ultralytics YOLOv8
-ultralytics==8.1.1
-
-# EasyOCR for text detection
-easyocr==1.6.2
-
-# Misc dependencies
-numpy==1.26.5
-pandas==2.1.0
-opencv-contrib-python-headless==4.8.1.78
+streamlit==1.51.0
+torch==2.9.0
+torchvision==0.24.0
+ultralytics==8.3.226
+easyocr==1.7.2
+numpy==2.2.6
+pandas==2.3.3
+opencv-python-headless==4.12.0.88
+polars==1.35.1
+matplotlib==3.10.7
+scipy==1.16.3
+altair==5.5.0
+rich==14.2.0
